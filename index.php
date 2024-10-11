@@ -10,9 +10,6 @@
 
 <!-- header -->
 <header>
-        <div class="logo">
-            <img src="IMG/Confeitaria_do_Pedrão_-removebg-preview.png"  alt="Confeitaria Delícia" />
-        </div>
         <nav>
             <ul>
                 <li class="dropdown">
